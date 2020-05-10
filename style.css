@@ -1,0 +1,14 @@
+.sanssmall {
+  font-family: sans-serif, sans, Arial;
+  font-size: small;
+}
+
+.sans {
+  font-family: sans-serif, sans, Arial;
+}
+
+.outlinedvlist {
+  border: 1px solid black;
+  padding: 8px;
+  margin: 10px 0px 10px 0px;
+}
