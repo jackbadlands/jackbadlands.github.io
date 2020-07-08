@@ -7,6 +7,12 @@
   font-family: sans-serif, sans, Arial;
 }
 
+.sanswhite {
+  font-family: sans-serif, sans, Arial;
+  color: #FFFFFF;
+}
+
+
 .outlinedvlist {
   border: 1px solid black;
   padding: 8px;

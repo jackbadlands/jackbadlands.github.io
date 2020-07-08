@@ -1,0 +1,33 @@
+.sanssmall {
+  font-family: sans-serif, sans, Arial;
+  font-size: small;
+  color: #FFFFFF;
+}
+
+.sans {
+  font-family: sans-serif, sans, Arial;
+  color: #FFFFFF;
+}
+
+.invisible {
+  font-family: sans-serif, sans, Arial;
+  color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+}
+
+a {
+  font-family: sans-serif, sans, Arial;
+  color: #CCCCFF;
+}
+
+a:visited {
+  font-family: sans-serif, sans, Arial;
+  color: #FFCCCC;
+}
+
+.outlinedvlist {
+  padding: 8px;
+  margin: 10px 0px 10px 0px;
+  background-color: rgba(0, 0, 0, 0.5);
+  back
+}
